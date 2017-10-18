@@ -1,3 +1,12 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+
+<style id="webmakerstyle">
+
+</style>
+</head>
+<body>
 <!DOCTYPE html>Alexander Hrazdera// Daniel Andricic
 <html lang="de";
 	<head>
@@ -27,10 +36,32 @@
         <p>
           In 2010, internet giant Google announced that some of its employees had spent the previous year secretly developing and testing a system for a self-driving car in the hopes of finding a solution that would reduce the number of car accidents each year by half. The project was headed by Sebastian Thrun, director of Stanford’s Artificial Intelligence Laboratory, and brought onboard engineers who worked on cars that competed in DARPA’s Challenge events. The goal was to launch a commercial vehicle by the year 2020. 
         </p>
-        <a href="www.telegraph.co.uk › Motoring › Car Manufacturers › Audi
-">Link drücken</a>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/hbo5-VB7Axo" ></iframe>
       
-      </h3>
+		<p> </p>
+		<p> </p>
+		<font color="#4CAF50">
+		<h3> The five stages of autonomous driving:</h3>
+		<font color="##131313">
+		<p> </p>
+		<b> • Level null:</b> It isn't autonom. The driver does everything by himself. He drives, steers, brakes, gives gas and pays attention to his surroundings. The vehicle does not undertake any intervention or has no technical prerequisites<p>
+		<b> • Level one:</b> supports the driver with certain assistance systems, for example, with a blind spot warning system, a tracking warning system or a Bergan driving aid system.<p>
+		<b> • Level two:</b> assumes individual tasks for the driver. At this stage, most manufacturers are up to date (as of June 2017). Automatic parking or a tracking function are among the most common systems. The traffic assistant can accelerate, brake and follow the preceding vehicle without driver intervention<p>
+		<b> • Level hree:</b> is referred to as highly-automated driving. The car, for example, independently sets the turn signal, changes the track or adjusts its speed to the running traffic. The autopilot can still ask the driver to take over the steering again to steer the car by hand.<p>
+		<b> • Level four:</b> defines the full automation. The car takes over all functions and only delivers them again if a situation can not be solved for the system.<p>
+		<b> • Level five:</b> Man is in principle superfluous. The car and the system need only a goal input and the release to the start. <p>						
+      
     
 	</body>
+</html>
+
+
+
+
+
+
+
+<script src="chrome-extension://lkfkkhfhhdkiemehlpkgjeojomhpccnh/lib/screenlog.js"></script><script src="filesystem:chrome-extension://lkfkkhfhhdkiemehlpkgjeojomhpccnh/temporary/script.js">
+</script>
+</body>
 </html>
