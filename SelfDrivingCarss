@@ -1,6 +1,16 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+
+<style id="webmakerstyle">
+
+</style>
+</head>
+<body>
 <!DOCTYPE html>Alexander Hrazdera// Daniel Andricic
 <html lang="de";
 	<head>
+		<link rel="Stylesheet" href="Tabelle.css">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Self driving cars</title>
@@ -15,11 +25,11 @@
       <font color="##131313">
       <p> The dream of a self-driving automobile goes as             far back as the middle ages, centuries prior to             the invention of the car. The evidence for this             comes from a sketching by Leonardo De Vinci that           was meant to be a rough blueprint for a                     self propelled cart. 
       </p>
-      <p> </p>
+        </br>
         <p>
           It was around the early part of the 20th century           that a real concerted effort to develop a                   driverlesscar that actually worked started to               take shape, beginning with the Houdina Radio               Control Company’s first public demonstration of a           driverless car in 1925.
         </p>
-      <p> </p>
+		</br>
         <p>
           A year later, distributor Achen Motor also                 showcased a remote-controlled car called the               “Phantom Auto” on the streets of Milwaukee.
         </p>
@@ -27,10 +37,47 @@
         <p>
           In 2010, internet giant Google announced that some of its employees had spent the previous year secretly developing and testing a system for a self-driving car in the hopes of finding a solution that would reduce the number of car accidents each year by half. The project was headed by Sebastian Thrun, director of Stanford’s Artificial Intelligence Laboratory, and brought onboard engineers who worked on cars that competed in DARPA’s Challenge events. The goal was to launch a commercial vehicle by the year 2020. 
         </p>
-        <a href="www.telegraph.co.uk › Motoring › Car Manufacturers › Audi
-">Link drücken</a>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/hbo5-VB7Axo" ></iframe>
       
-      </h3>
+		</br>
+		</br>
+		<font color="#4CAF50">
+		<h3> The five stages of autonomous driving:</h3>
+		<font color="##131313">
+		</br>
+		<table>
+			<thead>
+				<tr>
+					<th> Level 0 </th>
+					<th> Level 1 </th>
+					<th> Level 2 </th>
+					<th> Level 3 </th>
+					<th> Level 4 </th>
+					<th> Level 5 </th>
+				</tr>
+			</thead>
+				<tbody>
+				<font color = "FFFFFF">
+				
+					<td> The Car does nothing</td>
+					<td> The Car has small Technologies, for example a blind spot Warning.</td>
+					<td> The Car can drive a piece of the track and then the system ask the driver to handover.</td>
+					<td> The Car can solve most tasks except tasks with too much traffic at a high speed.</td>
+					<td> The Car needs a start and a end.</td>
+				</tbody>
+		</table>
+		
     
 	</body>
+</html>
+
+
+
+
+
+
+
+<script src="chrome-extension://lkfkkhfhhdkiemehlpkgjeojomhpccnh/lib/screenlog.js"></script><script src="filesystem:chrome-extension://lkfkkhfhhdkiemehlpkgjeojomhpccnh/temporary/script.js">
+</script>
+</body>
 </html>
